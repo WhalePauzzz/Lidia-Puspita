@@ -7,14 +7,14 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #f2f6fa;
+  background-color: #ffffff;
   color: #222222;
   line-height: 1.6;
 }
 
 /* header & navigasi */
 header {
-  background-color: #1d6fa5;
+  background-color: #e75480;
   color: #ffffff;
   padding: 16px 20px;
 }
@@ -34,15 +34,15 @@ nav {
 nav a {
   color: #ffffff;
   text-decoration: none;
-  background-color: #155580;
+  background-color: #c94b72;
   padding: 6px 12px;
   border-radius: 4px;
   font-size: 14px;
 }
 
 nav a:hover,
-nav a.aktif {
-  background-color: #0e3b59;
+av a.aktif {
+  background-color: #a9365d;
   font-weight: bold;
 }
 
@@ -57,7 +57,7 @@ nav a.aktif {
 }
 
 h1, h2, h3 {
-  color: #155580;
+  color: #c94b72;
   margin-bottom: 12px;
 }
 
@@ -85,8 +85,8 @@ li {
 }
 
 .kotak-info {
-  background-color: #eef6fc;
-  border-left: 4px solid #1d6fa5;
+  background-color: #fff0f4;
+  border-left: 4px solid #e75480;
   padding: 12px 16px;
   margin: 16px 0;
   border-radius: 4px;
@@ -136,7 +136,7 @@ textarea {
 }
 
 button {
-  background-color: #1d6fa5;
+  background-color: #e75480;
   color: #ffffff;
   border: none;
   padding: 10px 18px;
@@ -146,7 +146,7 @@ button {
 }
 
 button:hover {
-  background-color: #155580;
+  background-color: #c94b72;
 }
 
 .pesan-sukses {
