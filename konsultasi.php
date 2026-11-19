@@ -91,7 +91,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   </main>
 
   <footer>
-    <p>Website Edukasi Rhinitis Alergi | Sumber referensi: Kemenkes RI &amp; WHO</p>
+    <p>&copy;Lidia Puspita - 250205030 - D3RMIK</p>
   </footer>
 
   <script src="script.js"></script>
